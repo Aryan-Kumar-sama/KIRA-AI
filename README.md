@@ -43,7 +43,7 @@ KIRA is a sleek, offline-capable voice-based AI assistant powered by **LLaMA 3**
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/KIRA-AI.git
+git clone https://github.com/Aryan-Kumar-sama/KIRA-AI.git
 cd KIRA-AI
 pip install -r requirements.txt
 python kira.py
